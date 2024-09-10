@@ -3,6 +3,7 @@ public class oscar {
         //detta är min egen klass
         String hej = "pog";
         System.out.println(hej);
+        System.out.println("Fast beans");
         //jag gör nu en change och committar den
 
     }
