@@ -5,6 +5,9 @@ public class oscar {
         System.out.println(hej);
         System.out.println("Fast beans");
         //jag gör nu en change och committar den
+        //branch test
+
+        //hej
 
     }
 }
