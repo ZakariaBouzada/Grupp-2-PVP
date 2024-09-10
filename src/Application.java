@@ -1,3 +1,5 @@
 public static void main(String[] args) {
-//cock
+
+    //Hej
+    int hej = 2;
 }
